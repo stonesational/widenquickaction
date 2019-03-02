@@ -1,0 +1,6 @@
+<aura:component implements="force:lightningQuickAction">
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>    
+    
+    I&nbsp;&nbsp;&nbsp;A&nbsp;M&nbsp;&nbsp;&nbsp;R&nbsp;E&nbsp;A&nbsp;L&nbsp;L&nbsp;Y&nbsp;&nbsp;&nbsp;W&nbsp;I&nbsp;D&nbsp;E&nbsp;!&nbsp;!&nbsp;!
+    
+</aura:component>	
